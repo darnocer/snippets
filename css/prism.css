@@ -5,6 +5,10 @@
  * https://github.com/PrismJS/prism-themes
  */
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* Code title styles */
 .remark-code-title {
   @apply rounded-t bg-gray-700 px-5 py-3 font-mono text-sm font-bold text-gray-200;
@@ -36,7 +40,7 @@
 }
 
 .line-number::before {
-  @apply mr-4 -ml-2 inline-block w-4 text-right text-gray-400;
+  @apply -ml-2 mr-4 inline-block w-4 text-right text-gray-400;
   content: attr(line);
 }
 

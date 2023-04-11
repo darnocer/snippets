@@ -3,7 +3,7 @@ const colors = require('tailwindcss/colors')
 
 module.exports = {
   experimental: {
-    optimizeUniversalDefaults: true,
+    optimizeUniversalDefaults: false,
   },
   content: [
     './pages/**/*.js',
@@ -15,6 +15,9 @@ module.exports = {
   darkMode: 'class',
   theme: {
     extend: {
+      fontSize: {
+        xs: '0.7rem',
+      },
       spacing: {
         '9/16': '56.25%',
       },
@@ -25,17 +28,36 @@ module.exports = {
         14: '3.5rem',
       },
       fontFamily: {
-        sans: ['InterVariable', ...defaultTheme.fontFamily.sans],
+        sans: ['Thiccboi', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        primary: colors.teal,
+        primary: {
+          ...colors.teal,
+          DEFAULT: '#27A185',
+          400: '#27A185',
+        },
         gray: colors.neutral,
+        yellow: '#ECAC45',
+      },
+      fontWeight: {
+        thin: '100',
+        hairline: '100',
+        extralight: '200',
+        light: '300',
+        normal: '400',
+        medium: '500',
+        semibold: '600',
+        bold: '700',
+        extrabold: '800',
+        black: '900',
       },
       typography: (theme) => ({
         DEFAULT: {
           css: {
             color: theme('colors.gray.700'),
             a: {
+              fontWeight: '600',
+              textTransform: 'uppercase !important',
               color: theme('colors.primary.500'),
               '&:hover': {
                 color: `${theme('colors.primary.600')} !important`,
@@ -104,6 +126,7 @@ module.exports = {
           css: {
             color: theme('colors.gray.300'),
             a: {
+              textTransform: 'uppercase !important',
               color: theme('colors.primary.500'),
               '&:hover': {
                 color: `${theme('colors.primary.400')} !important`,

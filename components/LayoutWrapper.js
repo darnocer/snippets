@@ -18,13 +18,13 @@ const LayoutWrapper = ({ children }) => {
                 <div className="mr-3">
                   <Logo />
                 </div>
-                {typeof siteMetadata.headerTitle === 'string' ? (
+                {/* {typeof siteMetadata.headerTitle === 'string' ? (
                   <div className="hidden h-6 text-2xl font-semibold sm:block">
                     {siteMetadata.headerTitle}
                   </div>
                 ) : (
                   siteMetadata.headerTitle
-                )}
+                )} */}
               </div>
             </Link>
           </div>
@@ -34,7 +34,7 @@ const LayoutWrapper = ({ children }) => {
                 <Link
                   key={link.title}
                   href={link.href}
-                  className="p-1 font-medium text-gray-900 dark:text-gray-100 sm:p-4"
+                  className="p-1 font-medium uppercase text-gray-900 dark:text-gray-100 sm:p-4"
                 >
                   {link.title}
                 </Link>

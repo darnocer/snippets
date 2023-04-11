@@ -1,16 +1,21 @@
 ---
-name: Tails Azimuth
+name: Darian Nocera
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Hybrid Web Developer PM QA Writer Thing
+company:
+email: darian@madebyrvg.com
+linkedin: https://www.linkedin.com/in/darian-nocera
+github: https://github.com/darnocer
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+## In a Nutshell
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I'm a hybrid specialist/generalist, focusing on web development. I like to code, design, and write things. I'm interested in the topics of technology, productivity, business, and philosophy.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+## My Hobbies
+
+When I'm not on my laptop, I like to play ukulele, ride mountain bikes, camp in the Colorado wilderness, listen to JRE, read self-help books, practice yoga and meditation, tend to my rock and plant collections, make mac n cheese, and think and learn about the Universe.
+
+### About this Site
+
+I'm a pretty private person, so the thought of putting myself out there on the internet is rather anxiety-inducing. I'm trying out an experiment to share my authentic self with the world and see where it goes. This experiment is very much in progress, but I hope you'll find something of value and follow along.
