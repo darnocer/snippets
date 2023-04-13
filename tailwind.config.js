@@ -38,6 +38,10 @@ module.exports = {
         },
         gray: colors.neutral,
         yellow: '#ECAC45',
+        red: {
+          ...colors.red,
+          500: '#f65e69',
+        },
       },
       fontWeight: {
         thin: '100',

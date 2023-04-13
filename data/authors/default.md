@@ -1,8 +1,8 @@
 ---
 name: Darian Nocera
 avatar: /static/images/avatar.png
-occupation: Hybrid Web Developer PM QA Writer Thing
-company:
+occupation: Web Dev Hybrid Thing
+company: rootedvision group (RVG)
 email: darian@madebyrvg.com
 linkedin: https://www.linkedin.com/in/darian-nocera
 github: https://github.com/darnocer
@@ -10,12 +10,14 @@ github: https://github.com/darnocer
 
 ## In a Nutshell
 
-I'm a hybrid specialist/generalist, focusing on web development. I like to code, design, and write things. I'm interested in the topics of technology, productivity, business, and philosophy.
+I'm a gal that lives in Colorado. I like to code and write things. I'm a developer, but wear a lot of hats. Metaphorically and literally. I try to pry myself away from my digital projects at least once a day and spend time outside. It's pretty nice out there. Anywho, thanks for visiting. I don't have anything to sell you.
 
-## My Hobbies
+## My Yays & Nays
 
-When I'm not on my laptop, I like to play ukulele, ride mountain bikes, camp in the Colorado wilderness, listen to JRE, read self-help books, practice yoga and meditation, tend to my rock and plant collections, make mac n cheese, and think and learn about the Universe.
+<ChipWrapper />
 
-### About this Site
+## About this Site
 
-I'm a pretty private person, so the thought of putting myself out there on the internet is rather anxiety-inducing. I'm trying out an experiment to share my authentic self with the world and see where it goes. This experiment is very much in progress, but I hope you'll find something of value and follow along.
+This is my personal digital playground to practice writing and ultimately do whatever the heck I want. I think hard about stuff and sometimes it makes my brain really hot so I thought maybe this could cool it down. I'm a pretty private person, so this is an experiment to share part of myself with the world. We'll see how it goes.
+
+If you want the semi-professional but still somewhat eccentric version of Darian, you can find her at [darian.digital](https://darian.digital).
