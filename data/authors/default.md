@@ -10,7 +10,7 @@ github: https://github.com/darnocer
 
 ## In a Nutshell
 
-I'm a gal that lives in Colorado. I like to code and write things. I'm a developer, but wear a lot of hats. Metaphorically and literally. I try to pry myself away from my digital projects at least once a day and spend time outside. It's pretty nice out there. Anywho, thanks for visiting. I don't have anything to sell you.
+I'm a gal that lives in Colorado. I like to code and write things. I'm a developer, but wear a lot of hats. Metaphorically and literally. I do try to pry myself away from my projects and spend time outside. It's pretty nice out there. Anywho, thanks for visiting. I don't have anything to sell you.
 
 ## My Yays & Nays
 
