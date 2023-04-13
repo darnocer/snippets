@@ -1,6 +1,3 @@
-import Link from 'next/link'
-import kebabCase from '@/lib/utils/kebabCase'
-
 const Chip = ({ text, type }) => {
   return (
     <div
