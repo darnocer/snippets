@@ -3,7 +3,8 @@ const siteMetadata = {
   author: 'Darian Nocera',
   company: 'RVG, LLC',
   headerTitle: '',
-  description: 'The inner machinitions of my mind are an enigma.',
+  heading: 'Snippets',
+  description: 'Tool-agnostic web snippets from whatever project I was working on.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
