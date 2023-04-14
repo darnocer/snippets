@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Quick Start Guide
 
 1. Try installing the starter using the new [Pliny project CLI](https://github.com/timlrx/pliny):
@@ -153,3 +154,6 @@ Using the template? Support this effort by giving a star on GitHub, sharing your
 ## Licence
 
 [MIT](https://github.com/timlrx/tailwind-nextjs-starter-blog/blob/master/LICENSE) © [Timothy Lin](https://www.timlrx.com)
+=======
+# snippets
+>>>>>>> a9648503b1047c136cec5d840301d9d8f6c3334a
